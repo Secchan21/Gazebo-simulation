@@ -52,7 +52,7 @@ target = 360 左(-x方向)
 
 ① 1つ目のターミナルで「roscore」を立てる
 ② 2つ目のターミナルで「roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch」でgazeboを開く
-③ 3つ目のターミナルで「rosrun turtlebot3_ros 0322_as_tf_gazebo.py」で本プログラムを動作させる
+③ 3つ目のターミナルで「rosrun フォルダ名 Attitude-control.py」で本プログラムを動作させる
 
 ④ 「Ctrl + Shift + R」で初期の位置に戻すことができる
 
